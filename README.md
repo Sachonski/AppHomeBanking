@@ -1,4 +1,4 @@
-# Aplicacion para home banking.
+# Aplicacion para home banking
 Lista de Usuario Parametros - (Objetos)
 - ID
 - Nombre
